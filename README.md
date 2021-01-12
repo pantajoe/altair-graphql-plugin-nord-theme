@@ -54,6 +54,11 @@ A [Nord Theme](https://www.nordtheme.com) Port for the GraphQL IDE [Altair](http
 
 ## Hints
 
-I selected the font `Fira Code` in these settings, but you can always leave this setting empty or choose any other font family you like.
+* I selected the font `Fira Code` in these settings, but you can always leave this setting empty or choose any other font family you like.
+* If you find that the color of the comments is too subtle for your taste, use the following colors for some settings:
+  * `"font": "#ECEFF4"`
+  * `"offFont": "#E5E9F0"`
+  * `"comment": "#D8DEE9"`
+  * `"property": "#E5E9F0"`
 
 &copy; 2020 Joe Pantazidis
