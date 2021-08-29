@@ -11,4 +11,4 @@ A [Nord Theme](https://www.nordtheme.com) Port for the GraphQL IDE [Altair](http
 3. Add this plugin `Nord Theme` to your plugins.
 4. You're good to go!
 
-&copy; 2020 Joe Pantazidis
+&copy; 2021 Joe Pantazidis
