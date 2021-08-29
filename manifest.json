@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "altair-graphql-plugin-nord-theme",
+  "version": "0.0.1",
+  "display_name": "Nord Theme",
+  "description" : "Nord Theme for Altair GraphQL",
+  "author_email": "joe.pantazidis@outlook.de",
+  "author": "pantajoe",
+  "type": "theme",
+  "scripts": [
+    "src/index.js"
+  ]
+}

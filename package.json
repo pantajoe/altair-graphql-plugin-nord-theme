@@ -1,0 +1,29 @@
+{
+  "name": "altair-graphql-plugin-nord-theme",
+  "version": "0.0.1",
+  "description": "Nord Theme for Altair GraphQL Client.",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantajoe/altair-graphql-plugin-nord-theme.git"
+  },
+  "keywords": [
+    "altair",
+    "graphql",
+    "plugin"
+  ],
+  "author": "pantajoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pantajoe/altair-graphql-plugin-nord-theme/issues"
+  },
+  "homepage": "https://github.com/pantajoe/altair-graphql-plugin-nord-theme#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
+}
