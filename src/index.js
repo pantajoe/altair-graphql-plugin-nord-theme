@@ -34,7 +34,7 @@ class NordTheme {
       },
     });
 
-    context.theme.enable('nord');
+    context.theme.enable('nord', true);
   }
 
   async destroy() {
