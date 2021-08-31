@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "altair-graphql-plugin-nord-theme",
   "version": "0.0.1",
   "display_name": "Nord Theme",
@@ -7,6 +7,7 @@
   "author_email": "joe.pantazidis@outlook.de",
   "author": "pantajoe",
   "type": "theme",
+  "plugin_class": "NordTheme",
   "scripts": [
     "src/index.js"
   ]
