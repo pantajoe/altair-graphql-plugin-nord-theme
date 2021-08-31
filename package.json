@@ -1,6 +1,6 @@
 {
   "name": "altair-graphql-plugin-nord-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nord Theme for Altair GraphQL Client.",
   "main": "src/index.js",
   "scripts": {
